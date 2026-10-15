@@ -1,3 +1,6 @@
 [submodule "git_script"]
 	path = git_script
 	url = https://github.com/water-chika/git_script
+[submodule "build_helper"]
+	path = build_helper
+	url = ssh://git@ssh.github.com/water-chika/build_helper
